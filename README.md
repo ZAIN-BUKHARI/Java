@@ -11,5 +11,5 @@ Avaialble Methods in the code,
       ->deleteByValue
       ->deleteLastInsertedNode
     Search:
-      ->searchByValye```
+      ->searchByValye
       
